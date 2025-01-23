@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
               icon: const Icon(Icons.menu, color: Colors.white),
               onPressed: () {},
             )
-          ],
+          ],//comment for sample
         ),
         body: Padding(
           padding: const EdgeInsets.all(16.0),
