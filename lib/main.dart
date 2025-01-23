@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.black,
         appBar: AppBar(
           backgroundColor: Colors.black,
-          title: const Text(
+          title: const Text( 
             'Oppo',
             style: TextStyle(color: Colors.white, fontSize: 18),
           ),
